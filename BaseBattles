@@ -3,7 +3,7 @@ local mouse = client:GetMouse()
 
 local library = loadstring(game:HttpGet(('https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wall%20v3')))()
 
-local w = library:CreateWindow("Old | NoMoreLife#6829")
+local w = library:CreateWindow("NoMoreLife#6829")
 
 local b = w:CreateFolder("Gun")
 local aimBot = w:CreateFolder("Aimbot")
